@@ -69,7 +69,7 @@
                         <h5>Created Graphic Designs</h5>
                         <p>(2020-2022)</p>
                     </div>
-                    <h4>freelance</h4q>
+                    <h4>freelance</h4>
                 </div>
             </div>
         </div>
