@@ -387,7 +387,7 @@ footer .socials a{
 
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 576px) {
 
     .about .left .info h2{
         font-size: 30px;
@@ -421,4 +421,38 @@ footer .socials a{
         font-size: 13px;
     }
 
+}
+@media screen and (max-width: 360px){
+    nav .links{
+        padding: 20px;
+    }
+    nav .links a{
+        font-size: 11px;
+        
+    }
+    .works .right .item > p,
+    .works .right .item:not(:first-child) a{
+        font-size: 15px;
+    }
+    
+    .right .item{
+        border-radius: 30px;
+        gap: 30px;
+        
+    }
+
+
+   .works .right .item > p,.works .right .item:not(:first-child) a{
+    font-size: 16px;
+    }
+    footer > a{
+        font-size: 15px;
+        font-weight: 500;
+    }
+    footer .socials a{
+        padding-left: 5px;
+        font-size: 10px;
+        font-weight: 600;
+        color: #BDBDBD;
+    }
 }
