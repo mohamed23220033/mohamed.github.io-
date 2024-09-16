@@ -69,7 +69,7 @@
                         <h5>Created Graphic Designs</h5>
                         <p>(2020-2022)</p>
                     </div>
-                    <h4>freelance</h4>
+                    <h4>freelance</h4q>
                 </div>
             </div>
         </div>
@@ -79,14 +79,14 @@
                 <p>JAVASCRIPT <a href="#" class="js"><i class="fa-brands fa-square-js"></i></a> 
                     HTML<a href="h"><i class="fa-brands fa-html5"></i></a>
                     CSS <a href="h"><i class="fa-brands fa-css3-alt"></i></a>
-                    DJANGO,
+                    DJANGO,<b>
                     SQL <a href="data"><i class="fa-solid fa-database"></i></a>
-                    PYTHON <a href="py"><i class="fa-brands fa-python"></i></a>
-                    C++ 
-                    GITHUB <a href="git"><i class="fa-brands fa-github"></i></a>
-                    VISUAL STUDIO,
-                    VISUAL STUDIO CODE,
-                    ANACONDA:[spyder , jupyter].
+                    ,PYTHON <a href="py"><i class="fa-brands fa-python"></i></a>
+                    ,C++, 
+                    GITHUB <a href="git"><i class="fa-brands fa-github"></i></a><b>
+                    ,VISUAL STUDIO,
+                    VISUAL STUDIO CODE,</br>
+                    ANACONDA:[spyder , jupyter].<br>
                     Microsoft :[sql server , excel , WORD , POWERPOINT , ACCESS] <a href="micro"><i class="fa-brands fa-microsoft"></i></a>
                     </p>
             </div>
@@ -120,4 +120,3 @@
             Available FOR Job</a>
     </footer>
     
-
